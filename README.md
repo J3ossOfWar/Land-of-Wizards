@@ -5,8 +5,8 @@ When extracting make sure you have at lease 1.3GB of space availble.
 
 Youssef Assem
 
-Moataz Khaled 
+Moataz Khaled https://github.com/moataz98
 
-Mohammed Ehab github.com/M-Elsaeed
+Mohammed Ehab https://github.com/M-Elsaeed
 
-Karim Walid github.com/karimelhammady
+Karim Walid https://github.com/karimelhammady
