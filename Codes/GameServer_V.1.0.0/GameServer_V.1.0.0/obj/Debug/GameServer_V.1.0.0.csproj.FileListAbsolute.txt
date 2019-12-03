@@ -1,0 +1,29 @@
+D:\ASU\C# workshop\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\GameServer_V.1.0.0.exe.config
+D:\ASU\C# workshop\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\GameServer_V.1.0.0.exe
+D:\ASU\C# workshop\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\GameServer_V.1.0.0.pdb
+D:\ASU\C# workshop\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.csprojAssemblyReference.cache
+D:\ASU\C# workshop\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.csproj.CoreCompileInputs.cache
+D:\ASU\C# workshop\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.exe
+D:\ASU\C# workshop\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.pdb
+D:\ASU\C# workshop\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\OtherPlayer.dll
+D:\ASU\C# workshop\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.csproj.CopyComplete
+C:\Users\J3oss\source\repos\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\GameServer_V.1.0.0.exe.config
+C:\Users\J3oss\source\repos\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\GameServer_V.1.0.0.exe
+C:\Users\J3oss\source\repos\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\GameServer_V.1.0.0.pdb
+C:\Users\J3oss\source\repos\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.csprojAssemblyReference.cache
+C:\Users\J3oss\source\repos\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\J3oss\source\repos\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.csproj.CopyComplete
+C:\Users\J3oss\source\repos\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.exe
+C:\Users\J3oss\source\repos\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.pdb
+C:\Users\J3oss\source\repos\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\OtherPlayer.pdb
+C:\Users\J3oss\Desktop\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\GameServer_V.1.0.0.exe.config
+C:\Users\J3oss\Desktop\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\GameServer_V.1.0.0.exe
+C:\Users\J3oss\Desktop\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\GameServer_V.1.0.0.pdb
+C:\Users\J3oss\Desktop\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\OtherPlayer.pdb
+C:\Users\J3oss\Desktop\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.csprojAssemblyReference.cache
+C:\Users\J3oss\Desktop\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.csproj.CoreCompileInputs.cache
+C:\Users\J3oss\Desktop\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.csproj.CopyComplete
+C:\Users\J3oss\Desktop\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.exe
+C:\Users\J3oss\Desktop\GameServer_V.1.0.0\GameServer_V.1.0.0\obj\Debug\GameServer_V.1.0.0.pdb
+C:\Users\J3oss\Desktop\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\OtherPlayer.dll
+C:\Users\J3oss\source\repos\GameServer_V.1.0.0\GameServer_V.1.0.0\bin\Debug\OtherPlayer.dll

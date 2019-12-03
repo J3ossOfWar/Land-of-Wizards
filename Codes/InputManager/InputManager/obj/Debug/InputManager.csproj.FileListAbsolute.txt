@@ -1,0 +1,18 @@
+C:\Users\yo_90\source\repos\InputManager\InputManager\bin\Debug\InputManager.dll
+C:\Users\yo_90\source\repos\InputManager\InputManager\bin\Debug\InputManager.pdb
+C:\Users\yo_90\source\repos\InputManager\InputManager\obj\Debug\InputManager.csprojAssemblyReference.cache
+C:\Users\yo_90\source\repos\InputManager\InputManager\obj\Debug\InputManager.csproj.CoreCompileInputs.cache
+C:\Users\yo_90\source\repos\InputManager\InputManager\obj\Debug\InputManager.dll
+C:\Users\yo_90\source\repos\InputManager\InputManager\obj\Debug\InputManager.pdb
+D:\ASU\C# workshop\Game\class codes\InputManager\InputManager\bin\Debug\InputManager.dll
+D:\ASU\C# workshop\Game\class codes\InputManager\InputManager\bin\Debug\InputManager.pdb
+D:\ASU\C# workshop\Game\class codes\InputManager\InputManager\obj\Debug\InputManager.csprojAssemblyReference.cache
+D:\ASU\C# workshop\Game\class codes\InputManager\InputManager\obj\Debug\InputManager.csproj.CoreCompileInputs.cache
+D:\ASU\C# workshop\Game\class codes\InputManager\InputManager\obj\Debug\InputManager.dll
+D:\ASU\C# workshop\Game\class codes\InputManager\InputManager\obj\Debug\InputManager.pdb
+C:\Users\J3oss\source\repos\InputManager\InputManager\bin\Debug\InputManager.dll
+C:\Users\J3oss\source\repos\InputManager\InputManager\bin\Debug\InputManager.pdb
+C:\Users\J3oss\source\repos\InputManager\InputManager\obj\Debug\InputManager.csprojAssemblyReference.cache
+C:\Users\J3oss\source\repos\InputManager\InputManager\obj\Debug\InputManager.csproj.CoreCompileInputs.cache
+C:\Users\J3oss\source\repos\InputManager\InputManager\obj\Debug\InputManager.dll
+C:\Users\J3oss\source\repos\InputManager\InputManager\obj\Debug\InputManager.pdb

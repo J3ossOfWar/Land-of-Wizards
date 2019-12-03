@@ -1,0 +1,18 @@
+C:\Users\yo_90\source\repos\OtherPlayer\OtherPlayer\bin\Debug\OtherPlayer.dll
+C:\Users\yo_90\source\repos\OtherPlayer\OtherPlayer\bin\Debug\OtherPlayer.pdb
+C:\Users\yo_90\source\repos\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.csproj.CoreCompileInputs.cache
+C:\Users\yo_90\source\repos\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.dll
+C:\Users\yo_90\source\repos\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.pdb
+C:\Users\yo_90\source\repos\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.csprojAssemblyReference.cache
+D:\ASU\C# workshop\Game\class codes\OtherPlayer\OtherPlayer\bin\Debug\OtherPlayer.dll
+D:\ASU\C# workshop\Game\class codes\OtherPlayer\OtherPlayer\bin\Debug\OtherPlayer.pdb
+D:\ASU\C# workshop\Game\class codes\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.csprojAssemblyReference.cache
+D:\ASU\C# workshop\Game\class codes\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.csproj.CoreCompileInputs.cache
+D:\ASU\C# workshop\Game\class codes\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.dll
+D:\ASU\C# workshop\Game\class codes\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.pdb
+C:\Users\J3oss\source\repos\OtherPlayer\OtherPlayer\bin\Debug\OtherPlayer.dll
+C:\Users\J3oss\source\repos\OtherPlayer\OtherPlayer\bin\Debug\OtherPlayer.pdb
+C:\Users\J3oss\source\repos\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.csproj.CoreCompileInputs.cache
+C:\Users\J3oss\source\repos\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.dll
+C:\Users\J3oss\source\repos\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.pdb
+C:\Users\J3oss\source\repos\OtherPlayer\OtherPlayer\obj\Debug\OtherPlayer.csprojAssemblyReference.cache
